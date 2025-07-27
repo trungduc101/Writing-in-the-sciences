@@ -1,4 +1,3 @@
-Related: [Skills - Academic writing](Skills%20-%20Academic%20writing)
 
 - This repository contains my notes for the course [Coursera - Writing in the Sciences](https://www.coursera.org/learn/sciwrite)
 - Instructor: [Dr. Kristin Sainani](https://www.coursera.org/instructor/~1367410) at Stanford University.
