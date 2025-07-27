@@ -1,14 +1,15 @@
-[Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences)
+[Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
-1. [1. Talking with the media](#1-talking-with-the-media)
-2. [2. Panel Interview](#2-panel-interview)
-3. [3. Writing for general audiences](#3-writing-for-general-audiences)
-4. [4. Writing a science news story](#4-writing-a-science-news-story)
-	1. [Lead](#lead)
-	2. [Nut Graf (Nut Paragraph)](#nut-graf-nut-paragraph)
-	3. [The First Quotes](#the-first-quotes)
-5. [5. Interviewing a scientist](#5-interviewing-a-scientist)
-6. [6. Social media](#6-social-media)
+
+- [1. Talking with the media](#1-talking-with-the-media)
+- [2. Panel Interview](#2-panel-interview)
+- [3. Writing for general audiences](#3-writing-for-general-audiences)
+- [4. Writing a science news story](#4-writing-a-science-news-story)
+	- [Lead](#lead)
+	- [Nut Graf (Nut Paragraph)](#nut-graf-nut-paragraph)
+	- [The First Quotes](#the-first-quotes)
+- [5. Interviewing a scientist](#5-interviewing-a-scientist)
+- [6. Social media](#6-social-media)
 
 
 # Week 8 - Communication with broader audiences

@@ -1,6 +1,12 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
 
+- [1. Tables and figures](#1-tables-and-figures)
+- [2. Results](#2-results)
+- [4. Methods and materials](#4-methods-and-materials)
+- [5. Introduction](#5-introduction)
+- [6. Discussion](#6-discussion)
+- [7. Abstract](#7-abstract)
 
 
 

@@ -1,5 +1,18 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
+
+- [1. Plagiarism](#1-plagiarism)
+- [2. Authorship](#2-authorship)
+- [3. The Submission Process](#3-the-submission-process)
+- [4. Interview with experts](#4-interview-with-experts)
+- [5. Peer review](#5-peer-review)
+	- [Types of peer review](#types-of-peer-review)
+	- [Tone](#tone)
+	- [Process](#process)
+	- [Content](#content)
+	- [Predatory Journals](#predatory-journals)
+	- [Notes](#notes)
+
 # Week 6 - Scientific Publishing
 
 + Identify and avoid plagiarism
@@ -256,8 +269,7 @@
 	- **Just review unto the other as you would want to be reviewed. Be kind, be positive.**
 
 
-	
-### 8. Predatory Journals
+### Predatory Journals
 + **Predatory Journals**
 	+ Predatory journals are bogus journals that are exploiting the open-access model to make money
 	+ The publish any garbage, without any peer review, simply to be able to collect the publishing fee from the authors

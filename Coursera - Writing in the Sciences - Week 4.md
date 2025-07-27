@@ -1,5 +1,13 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
+- [1. More paragraph practice](#1-more-paragraph-practice)
+- [2. Overview of the writing process](#2-overview-of-the-writing-process)
+- [3. Prewriting (70%)](#3-prewriting-70%25)
+- [4. Writing the first draft (20%)](#4-writing-the-first-draft-20%25)
+- [5. Revision (10%)](#5-revision-10%25)
+- [6. Checklist for  the final draft](#6-checklist-for--the-final-draft)
+- [7. Notes](#7-notes)
+
 
 # Week 4 - Writing process (IMPORTANT)
 

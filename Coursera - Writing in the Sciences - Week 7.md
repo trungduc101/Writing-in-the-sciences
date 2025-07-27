@@ -1,5 +1,14 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
+- [Review article](#review-article)
+- [Grant](#grant)
+- [Research plan](#research-plan)
+- [Recommendation letter](#recommendation-letter)
+- [Personal statements](#personal-statements)
+- [Tips for personal statements](#tips-for-personal-statements)
+	- [Elements: Opening/lead](#elements-openinglead)
+	- [Elements: Body for the essay](#elements-body-for-the-essay)
+
 # Week 7 - Beyond the Research Manuscript
 
 + Understand how to write review articles.
@@ -299,7 +308,7 @@ Tips for recommendatees
 
 <img src="attachment/3b173625bd983d4c3eca815e8710e51b.png" style='width: 300px;' />
 
-##  Elements: Body for the essay
+###  Elements: Body for the essay
 - Where do want to go?
 - What experiences have led you to this point?
 - What makes you a strong candidate?
