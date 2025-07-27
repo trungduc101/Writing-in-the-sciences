@@ -1,8 +1,8 @@
+Related: [Skills - Academic writing](Skills%20-%20Academic%20writing)
 
 - This repository contains my notes for the course [Coursera - Writing in the Sciences](https://www.coursera.org/learn/sciwrite/home/week/1)
 - Instructor: [Dr. Kristin Sainani](https://www.coursera.org/instructor/~1367410) at Stanford University.
 - [My verified certificate](https://www.coursera.org/account/accomplishments/verify/CEVVEVW8JHXQ)
-
 
 # Week 1 - Principle of effective writing
 [Coursera - Writing in the Sciences - Week 1](Coursera%20-%20Writing%20in%20the%20Sciences%20-%20Week%201.md)
@@ -72,3 +72,15 @@
 + Recognize the difference between writing for scientific audiences and writing for lay audiences.
 + Understand the structure of a science news story.
 + Learn tips for how to interview a scientist.
+
+
+
+
+
+
+
+
+
+
+
+

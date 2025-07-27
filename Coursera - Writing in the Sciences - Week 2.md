@@ -1,5 +1,13 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
+- [1. Recognizing a passive verb](#1-recognizing-a-passive-verb)
+- [2. Advantages of active voice](#2-advantages-of-active-voice)
+- [3. Personal pronouns ("We" or "I")](#3-personal-pronouns-we-or-i)
+- [4. Practice active voice](#4-practice-active-voice)
+- [5. Write with verbs](#5-write-with-verbs)
+- [6. Practice with verbs](#6-practice-with-verbs)
+- [7. Few grammar tips](#7-few-grammar-tips)
+
 
 # Week 2 - Verbs
 

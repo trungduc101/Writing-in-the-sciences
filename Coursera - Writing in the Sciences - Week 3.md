@@ -1,5 +1,16 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
+
+- [I. Sentence](#i-sentence)
+	- [1. Punctuation](#1-punctuation)
+	- [2. Practice, colon and dash](#2-practice-colon-and-dash)
+	- [3. Parallelism](#3-parallelism)
+- [II. Paragraph](#ii-paragraph)
+	- [4. Paragraph-level tips](#4-paragraph-level-tips)
+	- [5. Paragraph editing](#5-paragraph-editing)
+	- [6. A few more tips:](#6-a-few-more-tips)
+	- [7. Practice](#7-practice)
+
 # Week 3 - Sentence and Paragraph
 
 + Practice using colons, dashes, parentheses, and semi-colons.
@@ -244,7 +255,7 @@ Using a colon: *Many types of cells and tissues develop a kind of directionality
 	- Only use standard, well-known acronyms (like DNA)
 	- If you must use acronyms, define them separately in the abstract, each table/figure and the text. For long papers, redefine occasionally (as readers don't typically read start to finish).
 
-### 7.  Practice
+### 7. Practice
 
 
 | Question                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Duc                                                                                                                                                                                                                                                                                                                                                                                                                         | Answer                                                                                                                                                                                                                                                                                                                                        |

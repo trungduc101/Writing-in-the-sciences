@@ -1,5 +1,11 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences.md)
 
+- [1. What makes a good writing](#1-what-makes-a-good-writing)
+- [2. Examples of what not to do](#2-examples-of-what-not-to-do)
+- [3. Principles of effective writing](#3-principles-of-effective-writing)
+- [4. Common clutters](#4-common-clutters)
+- [5. Few more small tricks...](#5-few-more-small-tricks)
+- [6. Practice cutting clutter:](#6-practice-cutting-clutter)
 
 # Week 1 - Principle of effective writing
 
