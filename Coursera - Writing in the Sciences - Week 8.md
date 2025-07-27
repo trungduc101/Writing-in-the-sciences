@@ -1,8 +1,14 @@
 [Coursera - Writing in the Sciences](Coursera%20-%20Writing%20in%20the%20Sciences)
 
-
-
-
+1. [1. Talking with the media](#1-talking-with-the-media)
+2. [2. Panel Interview](#2-panel-interview)
+3. [3. Writing for general audiences](#3-writing-for-general-audiences)
+4. [4. Writing a science news story](#4-writing-a-science-news-story)
+	1. [Lead](#lead)
+	2. [Nut Graf (Nut Paragraph)](#nut-graf-nut-paragraph)
+	3. [The First Quotes](#the-first-quotes)
+5. [5. Interviewing a scientist](#5-interviewing-a-scientist)
+6. [6. Social media](#6-social-media)
 
 
 # Week 8 - Communication with broader audiences
@@ -12,16 +18,6 @@
 - Recognize the difference between writing for scientific audiences and writing for lay audiences.
 - Understand the structure of a science news story.
 - Learn tips for how to interview a scientist.
-
-1. [#1. Talking with the media|1. Talking with the media](%231.%20Talking%20with%20the%20media%7C1.%20Talking%20with%20the%20media)
-2. [#2. Panel Interview|2. Panel Interview](%232.%20Panel%20Interview%7C2.%20Panel%20Interview)
-3. [#3. Writing for general audiences|3. Writing for general audiences](%233.%20Writing%20for%20general%20audiences%7C3.%20Writing%20for%20general%20audiences)
-4. [#4. Writing a science news story|4. Writing a science news story](%234.%20Writing%20a%20science%20news%20story%7C4.%20Writing%20a%20science%20news%20story)
-	1. [#4. Writing a science news story#Lead|Lead](%234.%20Writing%20a%20science%20news%20story%23Lead%7CLead)
-	2. [#4. Writing a science news story#Nut Graf (Nut Paragraph)|Nut Graf (Nut Paragraph)](%234.%20Writing%20a%20science%20news%20story%23Nut%20Graf%20(Nut%20Paragraph)%7CNut%20Graf%20(Nut%20Paragraph))
-	3. [#4. Writing a science news story#The First Quotes|The First Quotes](%234.%20Writing%20a%20science%20news%20story%23The%20First%20Quotes%7CThe%20First%20Quotes)
-5. [#5. Interviewing a scientist|5. Interviewing a scientist](%235.%20Interviewing%20a%20scientist%7C5.%20Interviewing%20a%20scientist)
-6. [#6. Social media|6. Social media](%236.%20Social%20media%7C6.%20Social%20media)
 
 
 ## 1. Talking with the media
